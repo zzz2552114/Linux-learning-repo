@@ -1,0 +1,85 @@
+homework 1 is testing
+homework_0 is Right!
+homework_1 is Right!
+homework_2 is Right!
+homework_3 is Right!
+homework_4 is Right!
+homework_5 is Right!
+homework_6 is Right!
+homework_7 is Right!
+homework_8 is Right!
+homework_9 is Right!
+score: 100/100
+
+homework 2 is testing
+homework_0 is Right!
+homework_1 is Right!
+homework_2 is Right!
+homework_3 is Right!
+homework_4 is Right!
+homework_5 is Right!
+homework_6 is Right!
+homework_7 is Right!
+homework_8 is Right!
+homework_9 is Right!
+score: 100/100
+
+homework 3 is testing
+homework_0 is Right!
+homework_1 is Right!
+homework_2 is Right!
+homework_3 is Right!
+homework_4 is Right!
+score: 100/100
+
+homework 4 is testing
+homework_0 is Right!
+homework_1 is Right!
+homework_2 is Right!
+homework_3 is Right!
+homework_4 is Right!
+score: 100/100
+
+homework 5 is testing
+homework_0 is Right!
+homework_1 is Right!
+homework_2 is Right!
+homework_3 is Right!
+homework_4 is Right!
+homework_5 is Right!
+homework_6 is Right!
+homework_7 is Right!
+homework_8 is Right!
+homework_9 is Right!
+score: 100/100
+
+homework 6 is testing
+homework_0 is Wrong.
+homework_1 is Wrong.
+score: 0/100
+
+homework 7 is testing
+homework_0 is Right!
+homework_1 is Right!
+homework_2 is Right!
+homework_3 is Right!
+homework_4 is Right!
+homework_5 is Right!
+homework_6 is Right!
+homework_7 is Right!
+homework_8 is Right!
+homework_9 is Right!
+score: 100/100
+
+homework 8 is testing
+homework_0 is Wrong.
+homework_1 is Wrong.
+homework_2 is Wrong.
+score: 0/100
+
+homework 9 is testing
+课程编号不存在
+
+homework 10 is testing
+课程编号不存在
+
