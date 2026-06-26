@@ -6,11 +6,10 @@
 
 ## 学习路线
 
-### 📚 当前阶段
-- ✅ Linux 基础学习
-- 深入学习以下核心内容
+### 当前阶段
+- Linux 基础学习
 
-### 🎯 后续学习计划
+### 后续学习计划
 
 #### 1. **用户管理**
    - 用户和组的概念
@@ -31,15 +30,16 @@
    - 文件系统原理
    - I/O 管理
    - 并发控制与同步
+   - epoll多路复用原理
 
 #### 4. **Linux 内核**
    - 内核架构和启动流程
    - 系统调用接口
    - 进程调度算法
-   - 内存管理单元 (MMU)
+   - 内存管理单元
    - 驱动程序开发
 
-## 项目结构
+## 项目结构 ( 预期 ）
 
 ```
 Linux-learning-repo/
@@ -53,15 +53,20 @@ Linux-learning-repo/
 
 ## 技术栈
 
+- **C** - 网络编程和系统开发
 - **C++** - 系统编程和高性能应用开发
-- **Shell** - Linux 脚本编程和系统管理
+- **Shell(bash)** - Linux 脚本编程和系统管理
 - **Python** - 系统工具和脚本开发
-- **Thrift** - 分布式系统通信
 
 ## 学习资源
 
-- Linux 官方文档
-- 经典操作系统教材
+- Linux基础:
+   1. MIT: The Missing Semester of Your CS Education
+   2. AcWing << Linux 基础课 >> 
+   3. Youtube 视频资源 
+- Computer Networking: A Top-Down Approach
+- Operating Systems: three easy pieces
+- Operating Systems: Principles and Practice
 - 开源项目源码分析
 - 实战项目代码
 
@@ -71,4 +76,4 @@ Linux-learning-repo/
 
 ---
 
-*持续学习中... 💪*
+*持续学习中... *
